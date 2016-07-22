@@ -16,7 +16,7 @@
     <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
     <!--    contained in this file into your site. -->
 
-    <!-- generator="WordPress/4.2.3" created="2015-07-31 07:43" -->
+    <!-- generator="WordPress/4.5.3" created="2016-07-22 01:31" -->
     <rss version="2.0"
          xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
          xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,21 +26,296 @@
          >
 
         <channel>
-            <title>Soffia Store</title>
-            <link>http://soffiawp.workstheme.com/demo</link>
-            <description>A WordPress Woocommerce Theme</description>
-            <pubDate>Fri, 31 Jul 2015 07:43:01 +0000</pubDate>
+            <title>TheBear</title>
+            <link>http://eliteup.net/thebear</link>
+            <description>Just another WordPress site</description>
+            <pubDate>Fri, 22 Jul 2016 01:31:36 +0000</pubDate>
             <language>en-US</language>
             <wp:wxr_version>1.2</wp:wxr_version>
-            <wp:base_site_url>http://soffiawp.workstheme.com/demo</wp:base_site_url>
-            <wp:base_blog_url>http://soffiawp.workstheme.com/demo</wp:base_blog_url>
+            <wp:base_site_url>http://eliteup.net/thebear</wp:base_site_url>
+            <wp:base_blog_url>http://eliteup.net/thebear</wp:base_blog_url>
 
-            	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>dzungnovaz@gmail.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+            	<wp:author><wp:author_id>1</wp:author_id><wp:author_login>admin</wp:author_login><wp:author_email>demo@demo.com</wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login>wooteam</wp:author_login><wp:author_email></wp:author_email><wp:author_display_name><![CDATA[wooteam]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
                                                 
-            <generator>http://wordpress.org/?v=4.2.3</generator>
+            <generator>https://wordpress.org/?v=4.5.3</generator>
 
-                    </channel>
+                                    <item>
+                            <title>Team_1</title>
+                            <link>http://eliteup.net/thebear/pages/about-us/team_1/</link>
+                            <pubDate>Tue, 10 May 2016 03:09:46 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_1.jpg</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>338</wp:post_id>
+                            <wp:post_date>2016-05-10 03:09:46</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 03:09:46</wp:post_date_gmt>
+                            <wp:comment_status>open</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>team_1</wp:post_name>
+                            <wp:status>inherit</wp:status>
+                            <wp:post_parent>336</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>attachment</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:attachment_url>http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_1.jpg</wp:attachment_url>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_wp_attached_file</wp:meta_key>
+                                    <wp:meta_value><![CDATA[2016/05/Team_1.jpg]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>tiny_compress_images</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:11:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:61141;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:6:{s:4:"size";i:52090;s:5:"width";i:570;s:6:"height";i:620;s:5:"ratio";d:0.85199999999999998;s:4:"type";s:10:"image/jpeg";s:3:"url";s:50:"https://api.tinify.com/output/9qctj96t2qtoibnr.jpg";}s:3:"end";i:1462849790;}s:9:"thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978704;}s:6:"medium";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978705;}s:31:"thebear_product_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978706;}s:35:"thebear_shop_single_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978707;}s:14:"shop_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978708;}s:12:"shop_catalog";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978709;}s:11:"shop_single";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978710;}s:16:"admin-list-thumb";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978711;}s:4:"grid";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978712;}s:3:"box";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978714;}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:5:{s:5:"width";i:570;s:6:"height";i:620;s:4:"file";s:18:"2016/05/Team_1.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"Team_1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"Team_1-276x300.jpg";s:5:"width";i:276;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:31:"thebear_product_small_thumbnail";a:4:{s:4:"file";s:18:"Team_1-150x179.jpg";s:5:"width";i:150;s:6:"height";i:179;s:9:"mime-type";s:10:"image/jpeg";}s:35:"thebear_shop_single_small_thumbnail";a:4:{s:4:"file";s:18:"Team_1-190x226.jpg";s:5:"width";i:190;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"Team_1-160x192.jpg";s:5:"width";i:160;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"Team_1-450x537.jpg";s:5:"width";i:450;s:6:"height";i:537;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:18:"Team_1-570x620.jpg";s:5:"width";i:570;s:6:"height";i:620;s:9:"mime-type";s:10:"image/jpeg";}s:16:"admin-list-thumb";a:4:{s:4:"file";s:16:"Team_1-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:4:"grid";a:4:{s:4:"file";s:18:"Team_1-570x400.jpg";s:5:"width";i:570;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:3:"box";a:4:{s:4:"file";s:18:"Team_1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                                <item>
+                            <title>Team_2</title>
+                            <link>http://eliteup.net/thebear/pages/about-us/team_2/</link>
+                            <pubDate>Tue, 10 May 2016 03:10:21 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_2.jpg</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>339</wp:post_id>
+                            <wp:post_date>2016-05-10 03:10:21</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 03:10:21</wp:post_date_gmt>
+                            <wp:comment_status>open</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>team_2</wp:post_name>
+                            <wp:status>inherit</wp:status>
+                            <wp:post_parent>336</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>attachment</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:attachment_url>http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_2.jpg</wp:attachment_url>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_wp_attached_file</wp:meta_key>
+                                    <wp:meta_value><![CDATA[2016/05/Team_2.jpg]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>tiny_compress_images</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:11:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:50979;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:6:{s:4:"size";i:38903;s:5:"width";i:570;s:6:"height";i:620;s:5:"ratio";d:0.7631;s:4:"type";s:10:"image/jpeg";s:3:"url";s:50:"https://api.tinify.com/output/u5sf8n0ts9n4vbpp.jpg";}s:3:"end";i:1462849825;}s:9:"thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978693;}s:6:"medium";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978694;}s:31:"thebear_product_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978694;}s:35:"thebear_shop_single_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978695;}s:14:"shop_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978696;}s:12:"shop_catalog";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978698;}s:11:"shop_single";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978699;}s:16:"admin-list-thumb";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978700;}s:4:"grid";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978701;}s:3:"box";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978702;}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:5:{s:5:"width";i:570;s:6:"height";i:620;s:4:"file";s:18:"2016/05/Team_2.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"Team_2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"Team_2-276x300.jpg";s:5:"width";i:276;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:31:"thebear_product_small_thumbnail";a:4:{s:4:"file";s:18:"Team_2-150x179.jpg";s:5:"width";i:150;s:6:"height";i:179;s:9:"mime-type";s:10:"image/jpeg";}s:35:"thebear_shop_single_small_thumbnail";a:4:{s:4:"file";s:18:"Team_2-190x226.jpg";s:5:"width";i:190;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"Team_2-160x192.jpg";s:5:"width";i:160;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"Team_2-450x537.jpg";s:5:"width";i:450;s:6:"height";i:537;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:18:"Team_2-570x620.jpg";s:5:"width";i:570;s:6:"height";i:620;s:9:"mime-type";s:10:"image/jpeg";}s:16:"admin-list-thumb";a:4:{s:4:"file";s:16:"Team_2-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:4:"grid";a:4:{s:4:"file";s:18:"Team_2-570x400.jpg";s:5:"width";i:570;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:3:"box";a:4:{s:4:"file";s:18:"Team_2-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                                <item>
+                            <title>Team_3</title>
+                            <link>http://eliteup.net/thebear/pages/about-us/team_3/</link>
+                            <pubDate>Tue, 10 May 2016 03:10:55 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_3.jpg</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>340</wp:post_id>
+                            <wp:post_date>2016-05-10 03:10:55</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 03:10:55</wp:post_date_gmt>
+                            <wp:comment_status>open</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>team_3</wp:post_name>
+                            <wp:status>inherit</wp:status>
+                            <wp:post_parent>336</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>attachment</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                            <wp:attachment_url>http://eliteup.net/thebear/wp-content/uploads/2016/05/Team_3.jpg</wp:attachment_url>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_wp_attached_file</wp:meta_key>
+                                    <wp:meta_value><![CDATA[2016/05/Team_3.jpg]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>tiny_compress_images</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:11:{i:0;a:3:{s:5:"input";a:2:{s:4:"size";i:51233;s:4:"type";s:10:"image/jpeg";}s:6:"output";a:6:{s:4:"size";i:41002;s:5:"width";i:570;s:6:"height";i:620;s:5:"ratio";d:0.80030000000000001;s:4:"type";s:10:"image/jpeg";s:3:"url";s:50:"https://api.tinify.com/output/lsf6vn4fft8rbtb7.jpg";}s:3:"end";i:1462849859;}s:9:"thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978682;}s:6:"medium";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978683;}s:31:"thebear_product_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978684;}s:35:"thebear_shop_single_small_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978685;}s:14:"shop_thumbnail";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978686;}s:12:"shop_catalog";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978687;}s:11:"shop_single";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978688;}s:16:"admin-list-thumb";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978689;}s:4:"grid";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978690;}s:3:"box";a:3:{s:5:"error";s:15:"TooManyRequests";s:7:"message";s:36:"Your monthly limit has been exceeded";s:9:"timestamp";i:1463978691;}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_wp_attachment_metadata</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:5:{s:5:"width";i:570;s:6:"height";i:620;s:4:"file";s:18:"2016/05/Team_3.jpg";s:5:"sizes";a:10:{s:9:"thumbnail";a:4:{s:4:"file";s:18:"Team_3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:18:"Team_3-276x300.jpg";s:5:"width";i:276;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:31:"thebear_product_small_thumbnail";a:4:{s:4:"file";s:18:"Team_3-150x179.jpg";s:5:"width";i:150;s:6:"height";i:179;s:9:"mime-type";s:10:"image/jpeg";}s:35:"thebear_shop_single_small_thumbnail";a:4:{s:4:"file";s:18:"Team_3-190x226.jpg";s:5:"width";i:190;s:6:"height";i:226;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:18:"Team_3-160x192.jpg";s:5:"width";i:160;s:6:"height";i:192;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:18:"Team_3-450x537.jpg";s:5:"width";i:450;s:6:"height";i:537;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:18:"Team_3-570x620.jpg";s:5:"width";i:570;s:6:"height";i:620;s:9:"mime-type";s:10:"image/jpeg";}s:16:"admin-list-thumb";a:4:{s:4:"file";s:16:"Team_3-60x60.jpg";s:5:"width";i:60;s:6:"height";i:60;s:9:"mime-type";s:10:"image/jpeg";}s:4:"grid";a:4:{s:4:"file";s:18:"Team_3-570x400.jpg";s:5:"width";i:570;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:3:"box";a:4:{s:4:"file";s:18:"Team_3-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                                <item>
+                            <title>JOHN DOES</title>
+                            <link>http://eliteup.net/thebear/team/john-does/</link>
+                            <pubDate>Tue, 10 May 2016 04:19:44 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/?post_type=team&#038;p=361</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>361</wp:post_id>
+                            <wp:post_date>2016-05-10 04:19:44</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 04:19:44</wp:post_date_gmt>
+                            <wp:comment_status>closed</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>john-does</wp:post_name>
+                            <wp:status>publish</wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>team</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_edit_last</wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>slide_template</wp:meta_key>
+                                    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+                                    <wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_the_job_title</wp:meta_key>
+                                    <wp:meta_value><![CDATA[Creative Director]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_team_social_icons</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;a:1:{s:19:"_novafw_social_icon";s:27:"nc-icon-outline nature_bear";}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_thumbnail_id</wp:meta_key>
+                                    <wp:meta_value><![CDATA[338]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                                <item>
+                            <title>DOES JOHN</title>
+                            <link>http://eliteup.net/thebear/team/does-john/</link>
+                            <pubDate>Tue, 10 May 2016 04:20:58 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/?post_type=team&#038;p=362</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>362</wp:post_id>
+                            <wp:post_date>2016-05-10 04:20:58</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 04:20:58</wp:post_date_gmt>
+                            <wp:comment_status>closed</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>does-john</wp:post_name>
+                            <wp:status>publish</wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>team</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_edit_last</wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>slide_template</wp:meta_key>
+                                    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+                                    <wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_the_job_title</wp:meta_key>
+                                    <wp:meta_value><![CDATA[Develop Director]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_team_social_icons</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;a:1:{s:19:"_novafw_social_icon";s:27:"nc-icon-outline nature_bear";}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_thumbnail_id</wp:meta_key>
+                                    <wp:meta_value><![CDATA[339]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_dp_original</wp:meta_key>
+                                    <wp:meta_value><![CDATA[361]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                                <item>
+                            <title>EliteUp</title>
+                            <link>http://eliteup.net/thebear/team/eliteup/</link>
+                            <pubDate>Tue, 10 May 2016 04:21:35 +0000</pubDate>
+                            <dc:creator>admin</dc:creator>
+                            <guid isPermaLink="false">http://eliteup.net/thebear/?post_type=team&#038;p=363</guid>
+                            <description></description>
+                            <content:encoded><![CDATA[Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis.]]></content:encoded>
+                            <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+                            <wp:post_id>363</wp:post_id>
+                            <wp:post_date>2016-05-10 04:21:35</wp:post_date>
+                            <wp:post_date_gmt>2016-05-10 04:21:35</wp:post_date_gmt>
+                            <wp:comment_status>closed</wp:comment_status>
+                            <wp:ping_status>closed</wp:ping_status>
+                            <wp:post_name>eliteup</wp:post_name>
+                            <wp:status>publish</wp:status>
+                            <wp:post_parent>0</wp:post_parent>
+                            <wp:menu_order>0</wp:menu_order>
+                            <wp:post_type>team</wp:post_type>
+                            <wp:post_password></wp:post_password>
+                            <wp:is_sticky>0</wp:is_sticky>
+                                                                                                                    <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_vc_post_settings</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_edit_last</wp:meta_key>
+                                    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>slide_template</wp:meta_key>
+                                    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+                                    <wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_the_job_title</wp:meta_key>
+                                    <wp:meta_value><![CDATA[Sale Director]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_novafw_team_social_icons</wp:meta_key>
+                                    <wp:meta_value><![CDATA[a:1:{i:0;a:1:{s:19:"_novafw_social_icon";s:27:"nc-icon-outline nature_bear";}}]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_dp_original</wp:meta_key>
+                                    <wp:meta_value><![CDATA[362]]></wp:meta_value>
+                                </wp:postmeta>
+                                                            <wp:postmeta>
+                                    <wp:meta_key>_thumbnail_id</wp:meta_key>
+                                    <wp:meta_value><![CDATA[340]]></wp:meta_value>
+                                </wp:postmeta>
+                                                                                </item>
+                                </channel>
     </rss>
     
