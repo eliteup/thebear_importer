@@ -181,6 +181,10 @@ class Nova_Import {
 									<td>
 										<select name="import_example" id="import_example">
 											<option value="main">Main Site</option>
+											<option value="main_dark">Classic Dark</option>
+											<option value="main_boxed">Boxed Dark</option>
+											<option value="main_bold">Home Bold</option>
+											<option value="main_minimalist">Minimalist</option>
 										</select>
 										<select name="import_option" id="import_option">
 											<option value="">Please Select</option>

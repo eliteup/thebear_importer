@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.5.3" created="2016-07-22 08:34" -->
+<!-- generator="WordPress/4.5.3" created="2016-07-22 09:43" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.1/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,341 +27,236 @@
 
 <channel>
 	<title>TheBear</title>
-	<link>http://eliteup.net/thebear</link>
+	<link>http://eliteup.net/thebear_bold</link>
 	<description>Just another WordPress site</description>
-	<pubDate>Fri, 22 Jul 2016 08:34:38 +0000</pubDate>
+	<pubDate>Fri, 22 Jul 2016 09:43:34 +0000</pubDate>
 	<language></language>
 	<wp:wxr_version>1.1</wp:wxr_version>
-	<wp:base_site_url>http://eliteup.net/thebear</wp:base_site_url>
-	<wp:base_blog_url>http://eliteup.net/thebear</wp:base_blog_url>
+	<wp:base_site_url>http://eliteup.net/thebear_bold</wp:base_site_url>
+	<wp:base_blog_url>http://eliteup.net/thebear_bold</wp:base_blog_url>
 
-	<wp:term><wp:term_id>39</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>information</wp:term_slug><wp:term_name><![CDATA[Information]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>40</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main-menu</wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>41</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>my-account</wp:term_slug><wp:term_name><![CDATA[My account]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>42</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>others</wp:term_slug><wp:term_name><![CDATA[Others]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>43</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>products</wp:term_slug><wp:term_name><![CDATA[Products]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>44</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>shop</wp:term_slug><wp:term_name><![CDATA[Shop]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>45</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>top-menu</wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>42</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>information</wp:term_slug><wp:term_name><![CDATA[Information]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>43</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>main-menu</wp:term_slug><wp:term_name><![CDATA[Main Menu]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>44</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>my-account</wp:term_slug><wp:term_name><![CDATA[My account]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>45</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>others</wp:term_slug><wp:term_name><![CDATA[Others]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>46</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>products</wp:term_slug><wp:term_name><![CDATA[Products]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>47</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>shop</wp:term_slug><wp:term_name><![CDATA[Shop]]></wp:term_name></wp:term>
+	<wp:term><wp:term_id>48</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug>top-menu</wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name></wp:term>
 
 	<generator>https://wordpress.org/?v=4.5.3</generator>
 
 	<item>
-		<title>Specials</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=6</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:22 +0000</pubDate>
+		<title>Cart</title>
+		<link>http://eliteup.net/thebear_bold/cart/</link>
+		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/specials/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear/cart/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_cart] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:22</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:22</wp:post_date_gmt>
+		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>specials</wp:post_name>
+		<wp:post_name>cart</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_key>_novafw_header_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_novafw_footer_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Best sellers</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=7</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:23 +0000</pubDate>
+		<title>Checkout</title>
+		<link>http://eliteup.net/thebear_bold/checkout/</link>
+		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/best-sellers/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear/checkout/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_checkout] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>7</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:23</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:23</wp:post_date_gmt>
+		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>best-sellers</wp:post_name>
+		<wp:post_name>checkout</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[7]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_key>_novafw_header_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_novafw_footer_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[left-short-grey]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Our stores</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=8</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:24 +0000</pubDate>
+		<title>My Account</title>
+		<link>http://eliteup.net/thebear_bold/my-account/</link>
+		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/our-stores/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear/my-account/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_my_account] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:24</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:24</wp:post_date_gmt>
+		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
+		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>our-stores</wp:post_name>
+		<wp:post_name>my-account</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type>page</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[8]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Contact us</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=9</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:24 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/contact-us/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:24</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:24</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>contact-us</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
-		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_edit_last</wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_key>_wp_page_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[9]]></wp:meta_value>
+			<wp:meta_key>slide_template</wp:meta_key>
+			<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+			<wp:meta_value><![CDATA[false]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
+			<wp:meta_key>_novafw_header_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+			<wp:meta_key>_novafw_footer_override</wp:meta_key>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
+			<wp:meta_value><![CDATA[left-short-grey]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Delivery</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=10</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:25 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/delivery/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:25</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:25</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>delivery</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Home Classic Light</title>
-		<link>http://eliteup.net/thebear/home-page/</link>
+		<title>Bold Version 1</title>
+		<link>http://eliteup.net/thebear_bold/home-page/</link>
 		<pubDate>Tue, 12 Apr 2016 02:50:37 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=115</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1462682650808{margin-bottom: 40px !important;}"][vc_column][rev_slider alias="home_classic_light"][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][/vc_column][/vc_row][vc_row][vc_column width="1/4"][thebear_icon_box icon="nc-icon-outline clothes_needle" title="The world of fashion"]With over 11,000 designers and stores in one place, we have you'll want.[/thebear_icon_box][/vc_column][vc_column width="1/4"][thebear_icon_box icon="nc-icon-outline clothes_coat" title="Be inspired and shop"]Enjoy daily curated lysts, personalized style recommendations[/thebear_icon_box][/vc_column][vc_column width="1/4"][thebear_icon_box icon="nc-icon-outline clothes_tie-bow" title="Look amazing"]With over 11,000 designers and stores in one place, we have you'll want.[/thebear_icon_box][/vc_column][vc_column width="1/4"][thebear_icon_box icon="nc-icon-outline clothes_wash-90" title="Minimal &amp; Clean"]Vivamus elementum semper nisi. Aenean vulputate eleifend tellus.[/thebear_icon_box][/vc_column][/vc_row][vc_row][vc_column][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][thebear_heading_box title="Best Selling Products" subtitle="
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row" thebear_padding="pb__0" css=".vc_custom_1468566181270{margin-bottom: 0px !important;}"][vc_column][rev_slider alias="home_bold"][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__0 pb__0"][vc_column width="1/2" css=".vc_custom_1468569682784{padding-top: 100% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-1.jpg?id=634) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][vc_column width="1/2"][thebear_nova_spacer height="230" height_on_tabs="100" height_on_tabs_portrait="50" height_on_mob_landscape="30" height_on_mob="30"][vc_custom_heading text="Best collection" font_container="tag:h5|text_align:center|color:%23222222" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:500%20bold%20regular%3A500%3Anormal" el_class="uppercase"][vc_custom_heading text="Men’s hoodies have never
+looked so sharp" font_container="tag:h1|text_align:center|color:%23222222" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:800%20bold%20regular%3A800%3Anormal"][vc_column_text]
+<p style="text-align: center;">Morbi pharetra quis ligula a laoreet. Suspendisse blandit suscipit dolor,
+eu gravida urna aliquet vel. Suspendisse hendrerit eu ante sit amet pellent esque, telus.</p>
 
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu
+<div style="margin-top: 50px; text-align: center;"><a class="btn btn-lg rounded" href="#">View Collection</a></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__0 pb__0"][vc_column width="7/12" css=".vc_custom_1468570830449{padding-right: 50px !important;padding-left: 50px !important;}"][thebear_nova_spacer height="100" height_on_tabs="50" height_on_tabs_portrait="50" height_on_mob_landscape="30" height_on_mob="30"][vc_custom_heading text="Women’s Collection" font_container="tag:h1|text_align:center|color:%23222222" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:800%20bold%20regular%3A800%3Anormal"][vc_column_text]
+<p style="text-align: center;">Morbi pharetra quis ligula a laoreet. Suspendisse blandit suscipit dolor,
+eu gravida urna aliquet vel. Suspendisse hendrerit eu ante sit amet pellent esque, telus.</p>
+[/vc_column_text][product_category per_page="3" columns="3" orderby="" order="" category="bold-products"][vc_column_text]
+<div style="text-align: center;"><a class="btn btn-lg primary rounded" href="#">View Collection</a></div>
+[/vc_column_text][/vc_column][vc_column width="5/12" css=".vc_custom_1468570991795{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-2.jpg?id=635) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__0 pb__0"][vc_column width="5/12" css=".vc_custom_1468572078957{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-3.jpg?id=636) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][vc_column width="7/12" css=".vc_custom_1468572089497{padding-right: 50px !important;padding-left: 50px !important;}"][thebear_nova_spacer height="100" height_on_tabs="50" height_on_tabs_portrait="50" height_on_mob_landscape="30" height_on_mob="30"][vc_custom_heading text="Men's Collection" font_container="tag:h1|text_align:center|color:%23222222" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:800%20bold%20regular%3A800%3Anormal"][vc_column_text]
+<p style="text-align: center;">Morbi pharetra quis ligula a laoreet. Suspendisse blandit suscipit dolor,
+eu gravida urna aliquet vel. Suspendisse hendrerit eu ante sit amet pellent esque, telus.</p>
+[/vc_column_text][product_category per_page="3" columns="3" orderby="" order="" category="bold-products-2"][vc_column_text]
+<div style="text-align: center;"><a class="btn btn-lg rounded" href="#">View Collection</a></div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__0 pb__0"][vc_column width="1/4" el_class="p__0"][thebear_collection_banner image="633" title="Collection #1" sub_title="SUB TITLE COLLECTION" content_collection="Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit." link="#" link_title="View"][/vc_column][vc_column width="1/4" el_class="p__0"][thebear_collection_banner image="632" title="Collection #2" sub_title="SUB TITLE COLLECTION" content_collection="
 
-"][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][product_category per_page="8" columns="4" orderby="" order="" category="t-shirts"][/vc_column][/vc_row][vc_row thebear_padding="pt__40 pb__40"][vc_column width="1/2" css=".vc_custom_1464161948137{padding-top: 75% !important;background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/04/store.jpg?id=419) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][/vc_column][vc_column width="1/2"][thebear_nova_spacer height="0" height_on_tabs="0" height_on_tabs_portrait="30" height_on_mob_landscape="20" height_on_mob="20"][vc_custom_heading text="Hello! We are TheBear Shop" font_container="tag:h3|font_size:200%25|text_align:left|line_height:1.7" use_theme_fonts="yes" el_class="mb__0"][vc_custom_heading text="TheBear is Premium Responsive Woocommerce Theme" font_container="tag:h4|font_size:120%25|text_align:left|line_height:1.7" use_theme_fonts="yes" el_class="playpair-font italic"][vc_column_text el_class="about-store"]Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus.[/vc_column_text][thebear_nova_gallery images="143,142,141,140"][/vc_column][/vc_row][vc_row][vc_column][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][thebear_heading_box title="Latest Products" subtitle="
+Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.
 
-Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu
+" link="#" link_title="View"][/vc_column][vc_column width="1/4" el_class="p__0"][thebear_collection_banner image="631" title="Collection #3" sub_title="SUB TITLE COLLECTION" content_collection="
 
-"][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][product_category per_page="4" columns="4" orderby="rand" order="" category="t-shirts"][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__40 pb__40"][vc_column width="1/4" css=".vc_custom_1462680658034{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}" el_class="p__0"][thebear_icon_box icon="nc-icon-outline shopping_delivery" layout="medium" title="Free Shipping"][/thebear_icon_box][/vc_column][vc_column width="1/4" css=".vc_custom_1462680662538{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}" el_class="p__0"][thebear_icon_box icon="nc-icon-outline shopping_gift" layout="medium" title="CONTINUOUS PROMOTION"][/thebear_icon_box][/vc_column][vc_column width="1/4" el_class="p__0" css=".vc_custom_1462680666913{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}"][thebear_icon_box icon="nc-icon-outline shopping_hand-card" layout="medium" title="30 Days Return"][/thebear_icon_box][/vc_column][vc_column width="1/4" el_class="p__0" css=".vc_custom_1462680672010{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}"][thebear_icon_box icon="nc-icon-outline shopping_award" layout="medium" title="Top Seller"][/thebear_icon_box][/vc_column][/vc_row][vc_row el_class="pb__0"][vc_column][thebear_nova_spacer height="20" height_on_tabs="0" height_on_tabs_portrait="0" height_on_mob_landscape="0" height_on_mob="0"][thebear_heading_box title="Best Collection"][/vc_column][/vc_row][vc_row css=".vc_custom_1468309615550{padding-bottom: 80px !important;}"][vc_column width="4/12"][thebear_effect_banner margin_bottom="30" image="148" title="The
-Summer Collection" banner_height="384" link="#"]The Summer Collection[/thebear_effect_banner][thebear_effect_banner margin_bottom="" image="147" title="The
-Summer Collection" banner_height="384" link="#"]The Follower Collection[/thebear_effect_banner][/vc_column][vc_column width="8/12"][vc_row_inner][vc_column_inner width="1/2"][thebear_effect_banner margin_bottom="30" image="146" title="The
-Summer Collection" banner_height="249" link="#"]The Bear Collection #1[/thebear_effect_banner][/vc_column_inner][vc_column_inner width="1/2"][thebear_effect_banner margin_bottom="30" image="145" title="The
-Summer Collection" banner_height="249" link="#"]The Bear Collection #2[/thebear_effect_banner][/vc_column_inner][/vc_row_inner][thebear_effect_banner margin_bottom="0" image="144" title="The
-Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_effect_banner][/vc_column][/vc_row][vc_row thebear_padding="pt__0 pb__0"][vc_column][thebear_nova_spacer height="60" height_on_tabs="20" height_on_tabs_portrait="20" height_on_mob_landscape="0" height_on_mob="0"][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="equal_height"][vc_column width="1/2" el_class="p__0" css=".vc_custom_1464165300684{background-color: #f7f7f7 !important;}"][vc_column_text][mc4wp_form id="237"][/vc_column_text][/vc_column][vc_column width="1/2" el_class="p__0"][vc_column_text el_class="mb__0 m__0_inner"][instagram-feed num=8 cols=4 imagepadding=0 showheader=false showbutton=false showfollow=false][/vc_column_text][/vc_column][/vc_row] ]]></content:encoded>
+Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.
+
+" link="#" link_title="View"][/vc_column][vc_column width="1/4" el_class="p__0"][thebear_collection_banner image="630" title="Collection #4" sub_title="SUB TITLE COLLECTION" content_collection="
+
+Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.
+
+" link="#" link_title="View"][/vc_column][/vc_row][vc_row thebear_padding="pb__0"][vc_column][thebear_nova_spacer height="30" height_on_tabs="20" height_on_tabs_portrait="20" height_on_mob_landscape="0" height_on_mob="0"][vc_custom_heading text="Subscribe now" font_container="tag:h2|font_size:38|text_align:center|color:%23222222|line_height:52px" google_fonts="font_family:Raleway%3A100%2C200%2C300%2Cregular%2C500%2C600%2C700%2C800%2C900|font_style:900%20bold%20regular%3A900%3Anormal"][thebear_nova_spacer height="30" height_on_tabs="20" height_on_tabs_portrait="20" height_on_mob_landscape="0" height_on_mob="0"][vc_column_text]
+<h3 class="newsletter-bold" style="text-align: center;">not miss<span class="extrabold">40%</span>Disscount</h3>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__0 pb__0" el_class="newsletter-style-bold"][vc_column][vc_column_text][mc4wp_form id="237"][/vc_column_text][/vc_column][/vc_row] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>115</wp:post_id>
 		<wp:post_date>2016-04-12 02:50:37</wp:post_date>
@@ -381,7 +276,7 @@ Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462682650808{margin-bottom: 40px !important;}.vc_custom_1468309615550{padding-bottom: 80px !important;}.vc_custom_1464161948137{padding-top: 75% !important;background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/04/store.jpg?id=419) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1462680658034{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}.vc_custom_1462680662538{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}.vc_custom_1462680666913{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}.vc_custom_1462680672010{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}.vc_custom_1464165300684{background-color: #f7f7f7 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1468566181270{margin-bottom: 0px !important;}.vc_custom_1468569682784{padding-top: 100% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-1.jpg?id=634) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468570830449{padding-right: 50px !important;padding-left: 50px !important;}.vc_custom_1468570991795{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-2.jpg?id=635) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468572078957{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-3.jpg?id=636) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468572089497{padding-right: 50px !important;padding-left: 50px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -401,7 +296,7 @@ Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_header_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+			<wp:meta_value><![CDATA[bar]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_footer_override</wp:meta_key>
@@ -417,12 +312,12 @@ Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462682650808{margin-bottom: 40px !important;}.vc_custom_1468309615550{padding-bottom: 80px !important;}.vc_custom_1464161948137{padding-top: 75% !important;background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/04/store.jpg?id=419) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1462680658034{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}.vc_custom_1462680662538{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}.vc_custom_1462680666913{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f7f7f7 !important;}.vc_custom_1462680672010{padding-top: 80px !important;padding-bottom: 80px !important;background-color: #f0f0f0 !important;}.vc_custom_1464165300684{background-color: #f7f7f7 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1468566181270{margin-bottom: 0px !important;}.vc_custom_1468569682784{padding-top: 100% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-1.jpg?id=634) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468570830449{padding-right: 50px !important;padding-left: 50px !important;}.vc_custom_1468570991795{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-2.jpg?id=635) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468572078957{padding-top: 120% !important;background-image: url(http://eliteup.net/thebear_bold/wp-content/uploads/2016/04/Img-3.jpg?id=636) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1468572089497{padding-right: 50px !important;padding-left: 50px !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http://eliteup.net/thebear/blog/</link>
+		<link>http://eliteup.net/thebear_bold/blog/</link>
 		<pubDate>Wed, 20 Apr 2016 06:09:49 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=200</guid>
@@ -483,8 +378,244 @@ Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_
 		</wp:postmeta>
 	</item>
 	<item>
+		<title>Specials</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=238</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:48 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/specials/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>238</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:48</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:48</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>specials</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[238]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Best sellers</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=239</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:48 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/best-sellers/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>239</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:48</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:48</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>best-sellers</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[239]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Our stores</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=240</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:49 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/our-stores/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>240</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:49</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:49</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>our-stores</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[240]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Contact us</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=241</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:50 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/contact-us/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>241</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:50</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:50</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>contact-us</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[241]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
 		<title>Pages</title>
-		<link>http://eliteup.net/thebear/pages/</link>
+		<link>http://eliteup.net/thebear_bold/pages/</link>
 		<pubDate>Sun, 08 May 2016 07:18:14 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=256</guid>
@@ -542,12 +673,12 @@ Summer Collection" banner_height="519" link="#"]The Bear Collection #3[/thebear_
 	</item>
 	<item>
 		<title>FAQ</title>
-		<link>http://eliteup.net/thebear/pages/faq/</link>
+		<link>http://eliteup.net/thebear_bold/pages/faq/</link>
 		<pubDate>Sun, 08 May 2016 07:19:48 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=258</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row][vc_column][thebear_nova_spacer height="40" height_on_tabs="20" height_on_tabs_portrait="20" height_on_mob_landscape="0" height_on_mob="0"][vc_column_text]
+		<content:encoded><![CDATA[[vc_row][vc_column][vc_column_text]
 <h4 class="mb__16 text-center">hello@thebearstore.com</h4>
 <p class="lead mb__0 text-center">We’d love to hear from you, however before contacting us please see if you
 can find the answer to your questions below.</p>
@@ -599,21 +730,17 @@ can find the answer to your questions below.</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-parallax]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[273]]></wp:meta_value>
+			<wp:meta_value><![CDATA[center-short-light]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Contact Us</title>
-		<link>http://eliteup.net/thebear/pages/contact-us/</link>
+		<link>http://eliteup.net/thebear_bold/pages/contact-us/</link>
 		<pubDate>Sun, 08 May 2016 10:29:33 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=274</guid>
 		<description></description>
-		<content:encoded><![CDATA[[vc_row thebear_padding="pt__0 pb__0"][vc_column el_class="p__0"][thebear_nova_spacer height="80" height_on_tabs="40" height_on_tabs_portrait="40" height_on_mob_landscape="20" height_on_mob="20"][thebear_google_map height="500px" lat="48.87146" lng="2.35500" zoom="18" infowindow_open="" marker_icon="default_self" map_style="JTVCJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJ3YXRlciUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNlOWU5ZTklMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNyU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIybGFuZHNjYXBlJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2Y1ZjVmNSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTIwJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJyb2FkLmhpZ2h3YXklMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNyU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5oaWdod2F5JTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeS5zdHJva2UlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyOSU3RCUyQyU3QiUyMndlaWdodCUyMiUzQTAuMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5hcnRlcmlhbCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExOCU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5sb2NhbCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycG9pJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2Y1ZjVmNSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTIxJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJwb2kucGFyayUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNkZWRlZGUlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyMSU3RCU1RCU3RCUyQyU3QiUyMmVsZW1lbnRUeXBlJTIyJTNBJTIybGFiZWxzLnRleHQuc3Ryb2tlJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCUyQyU3QiUyMmNvbG9yJTIyJTNBJTIyJTIzZmZmZmZmJTIyJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBMTYlN0QlNUQlN0QlMkMlN0IlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmxhYmVscy50ZXh0LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQTM2JTdEJTJDJTdCJTIyY29sb3IlMjIlM0ElMjIlMjMzMzMzMzMlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0E0MCU3RCU1RCU3RCUyQyU3QiUyMmVsZW1lbnRUeXBlJTIyJTNBJTIybGFiZWxzLmljb24lMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9mZiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIydHJhbnNpdCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmMmYyZjIlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExOSU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIyYWRtaW5pc3RyYXRpdmUlMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZWZlZmUlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyMCU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIyYWRtaW5pc3RyYXRpdmUlMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LnN0cm9rZSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2ZlZmVmZSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTE3JTdEJTJDJTdCJTIyd2VpZ2h0JTIyJTNBMS4yJTdEJTVEJTdEJTVE"]35 boulevard de Strasbourg Paris France[/thebear_google_map][/vc_column][/vc_row][vc_row thebear_columns_height="columns_auto_height"][vc_column width="7/12" el_class="p__0" css=".vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}"][contact-form-7 id="4"][/vc_column][vc_column width="5/12" el_class="p__0" css=".vc_custom_1462703879826{background-color: #b55d60 !important;}"][vc_column_text el_class="contact-address"]
+		<content:encoded><![CDATA[[vc_row thebear_padding="pt__0 pb__0"][vc_column el_class="p__0"][thebear_nova_spacer height="80" height_on_tabs="40" height_on_tabs_portrait="40" height_on_mob_landscape="20" height_on_mob="20"][thebear_google_map height="500px" lat="48.87146" lng="2.35500" zoom="18" infowindow_open="" marker_icon="default_self" map_style="JTVCJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJ3YXRlciUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNlOWU5ZTklMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNyU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIybGFuZHNjYXBlJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2Y1ZjVmNSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTIwJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJyb2FkLmhpZ2h3YXklMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNyU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5oaWdod2F5JTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeS5zdHJva2UlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyOSU3RCUyQyU3QiUyMndlaWdodCUyMiUzQTAuMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5hcnRlcmlhbCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExOCU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycm9hZC5sb2NhbCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZmZmZmYlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExNiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIycG9pJTIyJTJDJTIyZWxlbWVudFR5cGUlMjIlM0ElMjJnZW9tZXRyeSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2Y1ZjVmNSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTIxJTdEJTVEJTdEJTJDJTdCJTIyZmVhdHVyZVR5cGUlMjIlM0ElMjJwb2kucGFyayUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNkZWRlZGUlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyMSU3RCU1RCU3RCUyQyU3QiUyMmVsZW1lbnRUeXBlJTIyJTNBJTIybGFiZWxzLnRleHQuc3Ryb2tlJTIyJTJDJTIyc3R5bGVycyUyMiUzQSU1QiU3QiUyMnZpc2liaWxpdHklMjIlM0ElMjJvbiUyMiU3RCUyQyU3QiUyMmNvbG9yJTIyJTNBJTIyJTIzZmZmZmZmJTIyJTdEJTJDJTdCJTIybGlnaHRuZXNzJTIyJTNBMTYlN0QlNUQlN0QlMkMlN0IlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmxhYmVscy50ZXh0LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyc2F0dXJhdGlvbiUyMiUzQTM2JTdEJTJDJTdCJTIyY29sb3IlMjIlM0ElMjIlMjMzMzMzMzMlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0E0MCU3RCU1RCU3RCUyQyU3QiUyMmVsZW1lbnRUeXBlJTIyJTNBJTIybGFiZWxzLmljb24lMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIydmlzaWJpbGl0eSUyMiUzQSUyMm9mZiUyMiU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIydHJhbnNpdCUyMiUyQyUyMmVsZW1lbnRUeXBlJTIyJTNBJTIyZ2VvbWV0cnklMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmMmYyZjIlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0ExOSU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIyYWRtaW5pc3RyYXRpdmUlMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LmZpbGwlMjIlMkMlMjJzdHlsZXJzJTIyJTNBJTVCJTdCJTIyY29sb3IlMjIlM0ElMjIlMjNmZWZlZmUlMjIlN0QlMkMlN0IlMjJsaWdodG5lc3MlMjIlM0EyMCU3RCU1RCU3RCUyQyU3QiUyMmZlYXR1cmVUeXBlJTIyJTNBJTIyYWRtaW5pc3RyYXRpdmUlMjIlMkMlMjJlbGVtZW50VHlwZSUyMiUzQSUyMmdlb21ldHJ5LnN0cm9rZSUyMiUyQyUyMnN0eWxlcnMlMjIlM0ElNUIlN0IlMjJjb2xvciUyMiUzQSUyMiUyM2ZlZmVmZSUyMiU3RCUyQyU3QiUyMmxpZ2h0bmVzcyUyMiUzQTE3JTdEJTJDJTdCJTIyd2VpZ2h0JTIyJTNBMS4yJTdEJTVEJTdEJTVE"]35 boulevard de Strasbourg Paris France[/thebear_google_map][/vc_column][/vc_row][vc_row thebear_columns_height="columns_auto_height"][vc_column width="7/12" el_class="p__0" css=".vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}"][contact-form-7 id="4"][/vc_column][vc_column width="5/12" el_class="p__0" css=".vc_custom_1466157343247{background-color: #000000 !important;}"][vc_column_text el_class="contact-address"]
 <h3 class="uppercase">Contact Informations</h3>
 <ul>
  	<li><i class="nc-icon-outline location_pin"></i> 868 Bele Road, Victory, NY, USA</li>
@@ -641,7 +768,7 @@ can find the answer to your questions below.</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}.vc_custom_1462703879826{background-color: #b55d60 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}.vc_custom_1466157343247{background-color: #000000 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -673,20 +800,16 @@ can find the answer to your questions below.</p>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-parallax]]></wp:meta_value>
+			<wp:meta_value><![CDATA[center-short-light]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}.vc_custom_1462703879826{background-color: #b55d60 !important;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[273]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1462704931521{padding-top: 40px !important;padding-right: 70px !important;padding-bottom: 40px !important;padding-left: 70px !important;background-color: #f7f7f7 !important;}.vc_custom_1466157343247{background-color: #000000 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>About Us</title>
-		<link>http://eliteup.net/thebear/pages/about-us/</link>
+		<link>http://eliteup.net/thebear_bold/pages/about-us/</link>
 		<pubDate>Tue, 10 May 2016 03:13:02 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=336</guid>
@@ -703,19 +826,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-[/vc_column_text][/vc_column][vc_column width="1/2"][vc_custom_heading text="Skill" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="uppercase"][thebear_skill_bar_block layout="outside" align="text-left" title="BRANDING" amount="90"][thebear_skill_bar_block layout="outside" align="text-left" title="DESIGN" amount="80"][thebear_skill_bar_block layout="outside" align="text-left" title="PRODUCT DEVELOPENT" amount="85"][thebear_skill_bar_block layout="outside" align="text-left" title="WEB DEVELOPMENT" amount="75"][thebear_skill_bar_block layout="outside" align="text-left" title="MARKETING" amount="60"][/vc_column][/vc_row][vc_row full_width="stretch_row" thebear_padding="pt__40 pb__40"][vc_column width="1/3" el_class="p__0" css=".vc_custom_1462852648630{background-color: #f7f7f7 !important;}"][vc_column_text el_class="number-box-holder"]
-<div class="eliteup-number-box">
-<h2>01.</h2>
-Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.</div>
-[/vc_column_text][/vc_column][vc_column width="1/3" el_class="p__0" css=".vc_custom_1462852653906{background-color: #f2f2f2 !important;}"][vc_column_text el_class="number-box-holder"]
-<div class="eliteup-number-box">
-<h2>02.</h2>
-Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.</div>
-[/vc_column_text][/vc_column][vc_column width="1/3" el_class="p__0" css=".vc_custom_1462852670443{background-color: #f7f7f7 !important;}"][vc_column_text el_class="number-box-holder"]
-<div class="eliteup-number-box">
-<h2>03.</h2>
-Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, minima error ea nihil eius repellat reprehenderit.</div>
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][thebear_team pppage="3"][/vc_column][/vc_row][vc_row thebear_columns_height="columns_auto_height"][vc_column width="7/12" css=".vc_custom_1463132838672{background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/05/Video.jpg?id=341) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="p__0"][thebear_video_popup layout="embed-popup" image="341" embed="https://player.vimeo.com/video/110894499"][/vc_column][vc_column width="5/12" el_class="p__0" css=".vc_custom_1463132847965{background-color: #f7f7f7 !important;}"][thebear_testimonial_carousel pppage="4" layout="list"][/vc_column][/vc_row] ]]></content:encoded>
+[/vc_column_text][/vc_column][vc_column width="1/2"][vc_custom_heading text="Skill" font_container="tag:h4|text_align:left" use_theme_fonts="yes" el_class="uppercase"][thebear_skill_bar_block layout="outside" align="text-left" title="BRANDING" amount="90"][thebear_skill_bar_block layout="outside" align="text-left" title="DESIGN" amount="80"][thebear_skill_bar_block layout="outside" align="text-left" title="PRODUCT DEVELOPENT" amount="85"][thebear_skill_bar_block layout="outside" align="text-left" title="WEB DEVELOPMENT" amount="75"][thebear_skill_bar_block layout="outside" align="text-left" title="MARKETING" amount="60"][/vc_column][/vc_row][vc_row][vc_column][thebear_team pppage="3"][/vc_column][/vc_row][vc_row thebear_columns_height="columns_auto_height"][vc_column width="7/12" css=".vc_custom_1467017188271{background-image: url(http://eliteup.net/thebear_minimalist/wp-content/uploads/2016/05/Video-AboutUs.jpg?id=558) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="p__0"][thebear_video_popup layout="embed-popup" image="341" embed="https://player.vimeo.com/video/110894499"][/vc_column][vc_column width="5/12" el_class="p__0" css=".vc_custom_1463132847965{background-color: #f7f7f7 !important;}"][thebear_testimonial_carousel pppage="4" layout="list"][/vc_column][/vc_row] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>336</wp:post_id>
 		<wp:post_date>2016-05-10 03:13:02</wp:post_date>
@@ -735,7 +846,7 @@ Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, mi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462852648630{background-color: #f7f7f7 !important;}.vc_custom_1462852653906{background-color: #f2f2f2 !important;}.vc_custom_1462852670443{background-color: #f7f7f7 !important;}.vc_custom_1463132838672{background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/05/Video.jpg?id=341) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463132847965{background-color: #f7f7f7 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1467017188271{background-image: url(http://eliteup.net/thebear_minimalist/wp-content/uploads/2016/05/Video-AboutUs.jpg?id=558) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463132847965{background-color: #f7f7f7 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
@@ -744,10 +855,6 @@ Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, mi
 		<wp:postmeta>
 			<wp:meta_key>_edit_last</wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_thumbnail_id</wp:meta_key>
-			<wp:meta_value><![CDATA[337]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wp_page_template</wp:meta_key>
@@ -771,28 +878,24 @@ Accusamus a, laboriosam autem animi similique iste harum doloribus quas fuga, mi
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-parallax]]></wp:meta_value>
+			<wp:meta_value><![CDATA[center-short-light]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
-			<wp:meta_value><![CDATA[.vc_custom_1462852648630{background-color: #f7f7f7 !important;}.vc_custom_1462852653906{background-color: #f2f2f2 !important;}.vc_custom_1462852670443{background-color: #f7f7f7 !important;}.vc_custom_1463132838672{background-image: url(http://eliteup.net/thebear/wp-content/uploads/2016/05/Video.jpg?id=341) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463132847965{background-color: #f7f7f7 !important;}]]></wp:meta_value>
+			<wp:meta_value><![CDATA[.vc_custom_1467017188271{background-image: url(http://eliteup.net/thebear_minimalist/wp-content/uploads/2016/05/Video-AboutUs.jpg?id=558) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1463132847965{background-color: #f7f7f7 !important;}]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Sample Page</title>
-		<link>http://eliteup.net/thebear/sample-page-2/</link>
+		<link>http://eliteup.net/thebear_bold/sample-page-2/</link>
 		<pubDate>Mon, 11 Apr 2016 02:52:21 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/?page_id=2</guid>
 		<description></description>
 		<content:encoded><![CDATA[This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
-
-<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</blockquote>
-
+<blockquote>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like piña coladas. (And gettin' caught in the rain.)</blockquote>
 ...or something like this:
-
 <blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
-
 As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>397</wp:post_id>
@@ -841,12 +944,12 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
+			<wp:meta_value><![CDATA[center-short-light]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>Shop</title>
-		<link>http://eliteup.net/thebear/shop/</link>
+		<link>http://eliteup.net/thebear_bold/shop/</link>
 		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
 		<guid isPermaLink="false">http://eliteup.net/thebear/shop/</guid>
@@ -875,21 +978,45 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Cart</title>
-		<link>http://eliteup.net/thebear/cart/</link>
-		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
+		<title>Minimalist Version 2</title>
+		<link>http://eliteup.net/thebear_bold/minimalist-version-2__trashed/</link>
+		<pubDate>Fri, 01 Jul 2016 08:05:39 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/cart/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_minimalist/?page_id=564</guid>
 		<description></description>
-		<content:encoded><![CDATA[[woocommerce_cart] ]]></content:encoded>
+		<content:encoded><![CDATA[[vc_row full_width="stretch_row"][vc_column][rev_slider alias="home_minimal_2"][/vc_column][/vc_row][vc_row thebear_padding="pt__80 pb__80 pt-xs-40 pb-xs-40"][vc_column width="2/12"][/vc_column][vc_column width="3/12"][vc_single_image image="569" img_size="full"][/vc_column][vc_column width="5/12"][thebear_nova_spacer height="80" height_on_tabs="50" height_on_tabs_portrait="30" height_on_mob_landscape="0" height_on_mob="0"][thebear_heading_box layout="style_2" title="About Us"][vc_column_text]
+<p style="text-align: center; font-size: 15px;">Est vitae semper t. Quisque ut orci quis quam eleifend tempus. Donec dignissim sem diam. Nulla nebh libero, posuere at porttitor sed, porttitor ut massa. Nam varius nec urna convallis commodo. Ut ipsum neque, pellentesque eget semper consectetur, tempus non mi. Nunc a quam ac nibh. Dondimentum t quis a lacus. Donec id libero gravida, tempus turpis in, auctor nisi.</p>
+<p style="text-align: center; font-size: 15px;">Suspendisse blandit suscipit dolor, eu gravida urna aliquet vel. Suspendisse hendrerit eu ante sit amet pellent.</p>
+[/vc_column_text][vc_single_image image="579" img_size="full" alignment="center"][/vc_column][vc_column width="2/12"][/vc_column][/vc_row][vc_row][vc_column width="2/12"][/vc_column][vc_column width="8/12"][thebear_heading_box layout="style_2" title="Featured Products"][thebear_products_list shortcode="JTVCcHJvZHVjdF9jYXRlZ29yeSUyMCUyMHBlcl9wYWdlJTNEJTIyMTIlMjIlMjBjb2x1bW5zJTNEJTIyNCUyMiUyMG9yZGVyYnklM0QlMjJkYXRlJTIyJTIwb3JkZXIlM0QlMjJkZXNjJTIyJTIwY2F0ZWdvcnklM0QlMjJtaW4yJTIyJTVE" columns_2="3" columns_3="3"][/vc_column][vc_column width="2/12"][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column width="4/12" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="614" banner_height="550"]
+<h1 style="font-size: 72px; color: #222222; margin-top: 235px;">lookbook</h1>
+<h3 style="font-size: 24px; color: #222222; text-transform: uppercase;">Fashion Brand</h3>
+[/thebear_effect_banner][/vc_column][vc_column width="8/12" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="616" banner_height="550"]
+<h3 style="font-size: 36px; line-height: 48px; color: #fb676a; margin-top: 85px;">#1: Peach Pink</h3>
+<div style="color: #888888;">Quisque ut orci quis quam eleifend tempus. Donec dignissim sem diam. Nulla nebh libero</div>
+<h3 style="font-size: 36px; line-height: 48px; color: #222; margin-top: 85px;">#2 Pastels: a White Dress</h3>
+<div style="color: #888888;">Quisque ut orci quis quam eleifend tempus. Donec dignissim sem diam. Nulla nebh libero</div>
+<div style="padding-top: 30px;"><a class="btn" href="#">View More</a></div>
+[/thebear_effect_banner][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column width="8/12" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="621" banner_height="550"]
+<h3 style="color: #fff; font-size: 36px; margin-top: 178px; padding-left: 370px;">#3 Pastels: a White Dress</h3>
+<div style="padding-left: 370px;">Quisque ut orci quis quam eleifend tempus. Donec
+dignissim sem diam. Nulla nebh libero. Morbi
+pharetra quis ligula a laoreet. Suspendisse
+blandit suscipit dolor, eu gravida urna aliquet
+vel. Suspendisse hendrerit eu ante sit amet
+pellent esque.</div>
+<div style="padding-top: 30px; padding-left: 370px;"><a class="btn white" href="#">View More</a></div>
+[/thebear_effect_banner][/vc_column][vc_column width="4/12" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="620" banner_height="550" link="#"][/thebear_effect_banner][/vc_column][/vc_row][vc_row full_width="stretch_row"][vc_column width="1/3" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="622" banner_height="550" link="#"][/thebear_effect_banner][/vc_column][vc_column width="1/3" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="614" banner_height="550"]
+<h1 style="font-size: 72px; color: #222222; margin-top: 235px;">Candy Colors</h1>
+[/thebear_effect_banner][/vc_column][vc_column width="1/3" el_class="p__0"][thebear_effect_banner margin_bottom="0" layout="style_2" image="623" banner_height="550" link="#"][/thebear_effect_banner][/vc_column][/vc_row][vc_row][vc_column width="2/12"][/vc_column][vc_column width="8/12"][thebear_heading_box layout="style_2" title="Latest Products" subtitle="
+"][thebear_products_list shortcode="JTVCcHJvZHVjdF9jYXRlZ29yeSUyMCUyMHBlcl9wYWdlJTNEJTIyMTIlMjIlMjBjb2x1bW5zJTNEJTIyNCUyMiUyMG9yZGVyYnklM0QlMjJkYXRlJTIyJTIwb3JkZXIlM0QlMjJkZXNjJTIyJTIwY2F0ZWdvcnklM0QlMjJtaW4yJTIyJTVE" columns_2="3" columns_3="3"][/vc_column][vc_column width="2/12"][/vc_column][/vc_row] ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>399</wp:post_id>
-		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
-		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
+		<wp:post_id>564</wp:post_id>
+		<wp:post_date>2016-07-01 08:05:39</wp:post_date>
+		<wp:post_date_gmt>2016-07-01 08:05:39</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>cart</wp:post_name>
-		<wp:status>publish</wp:status>
+		<wp:post_name>minimalist-version-2__trashed</wp:post_name>
+		<wp:status>trash</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type>page</wp:post_type>
@@ -917,11 +1044,11 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			<wp:meta_value><![CDATA[true]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_header_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+			<wp:meta_value><![CDATA[bar-transparent-dark]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_footer_override</wp:meta_key>
@@ -929,137 +1056,92 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
+			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_status</wp:meta_key>
+			<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_trash_meta_time</wp:meta_key>
+			<wp:meta_value><![CDATA[1468639661]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_wp_desired_post_slug</wp:meta_key>
+			<wp:meta_value><![CDATA[minimalist-version-2]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Checkout</title>
-		<link>http://eliteup.net/thebear/checkout/</link>
-		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
+		<title>Delivery</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=242</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:50 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/checkout/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/delivery/</guid>
 		<description></description>
-		<content:encoded><![CDATA[[woocommerce_checkout] ]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>400</wp:post_id>
-		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
-		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
+		<wp:post_id>242</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:50</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:50</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>checkout</wp:post_name>
+		<wp:post_name>delivery</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="information"><![CDATA[Information]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[242]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_novafw_header_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_novafw_footer_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
-			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[center-short-grey]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>My Account</title>
-		<link>http://eliteup.net/thebear/my-account/</link>
-		<pubDate>Mon, 11 Apr 2016 02:56:42 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[[woocommerce_my_account] ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>401</wp:post_id>
-		<wp:post_date>2016-04-11 02:56:42</wp:post_date>
-		<wp:post_date_gmt>2016-04-11 02:56:42</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-account</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type>page</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_edit_last</wp:meta_key>
-			<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wp_page_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>slide_template</wp:meta_key>
-			<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_wpb_vc_js_status</wp:meta_key>
-			<wp:meta_value><![CDATA[false]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_novafw_header_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_novafw_footer_override</wp:meta_key>
-			<wp:meta_value><![CDATA[none]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_novafw_page_title_layout</wp:meta_key>
-			<wp:meta_value><![CDATA[left-short-grey]]></wp:meta_value>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title>About us</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=11</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:26 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=243</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:51 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/about-us/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/about-us/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:26</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:26</wp:post_date_gmt>
+		<wp:post_id>243</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:51</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:51</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>about-us</wp:post_name>
@@ -1084,7 +1166,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[11]]></wp:meta_value>
+			<wp:meta_value><![CDATA[243]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -1109,22 +1191,317 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title>My history</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=384</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:29 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=244</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:52 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-history/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-history/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>384</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:29</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:29</wp:post_date_gmt>
+		<wp:post_id>244</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:52</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:52</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>my-history</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[244]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My orders</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=245</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:53 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-orders/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>245</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:53</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:53</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-orders</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[245]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My credit slips</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=246</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:53 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-credit-slips/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>246</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:53</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:53</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-credit-slips</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[246]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My addresses</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=247</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:54 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-addresses/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>247</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:54</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:54</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-addresses</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[247]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My personal info</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=248</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:55 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-personal-info/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>248</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:55</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:55</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-personal-info</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[248]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>My Wishlist</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=384</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-wishlist/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>384</wp:post_id>
+		<wp:post_date>2016-07-22 09:38:57</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:57</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-wishlist</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1167,27 +1544,27 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My orders</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=385</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:31 +0000</pubDate>
+		<title>Home — Classic Dark</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=385</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:57 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-orders/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/home-classic-dark/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>385</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:31</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:31</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:38:57</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:57</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-orders</wp:post_name>
+		<wp:post_name>home-classic-dark</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1198,7 +1575,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[700]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1222,31 +1599,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_classic_dark/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My credit slips</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=386</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:33 +0000</pubDate>
+		<title>Home — Classic Light</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=386</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:58 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-credit-slips/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/home-classic-light/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>386</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:33</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:33</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:38:58</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:58</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-credit-slips</wp:post_name>
+		<wp:post_name>home-classic-light</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1257,7 +1634,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[700]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1281,31 +1658,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My addresses</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=387</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:33 +0000</pubDate>
+		<title>Shop — with Sidebar Left</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=387</link>
+		<pubDate>Fri, 22 Jul 2016 09:38:59 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-addresses/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shop-with-sidebar-left/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>387</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:33</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:33</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:38:59</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:38:59</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-addresses</wp:post_name>
+		<wp:post_name>shop-with-sidebar-left</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1340,31 +1717,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My personal info</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=388</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:34 +0000</pubDate>
+		<title>Shop — No Sidebar</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=388</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:00 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-personal-info/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shop-no-sidebar/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>388</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:34</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:34</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:00</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:00</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-personal-info</wp:post_name>
+		<wp:post_name>shop-no-sidebar</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1399,31 +1776,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?setting=sidebar-no&list-perrow=4]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>My Wishlist</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=389</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:35 +0000</pubDate>
+		<title>Shop — 2 Products</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=389</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:00 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-wishlist/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shop-2-products/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>389</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:35</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:35</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:00</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:00</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-wishlist</wp:post_name>
+		<wp:post_name>shop-2-products</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="my-account"><![CDATA[My account]]></category>
+		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1458,31 +1835,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?list-perrow=2]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Home — Classic Dark</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=390</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:35 +0000</pubDate>
+		<title>Shop — 3 Products</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=390</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:01 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/home-classic-dark/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shop-3-products/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>390</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:35</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:35</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:01</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:01</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>home-classic-dark</wp:post_name>
+		<wp:post_name>shop-3-products</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1493,7 +1870,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[469]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1517,31 +1894,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear_classic_dark/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?list-perrow=3]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Home — Classic Light</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=391</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:36 +0000</pubDate>
+		<title>Simple Product</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=391</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:03 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/home-classic-light/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/simple-product/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>391</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:36</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:36</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:03</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:03</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>home-classic-light</wp:post_name>
+		<wp:post_name>simple-product</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1552,7 +1929,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[469]]></wp:meta_value>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -1576,31 +1953,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist/product/woo-logo-2/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Shop — with Sidebar Left</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=392</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:37 +0000</pubDate>
+		<title>Variable Product</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=392</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:03 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shop-with-sidebar-left/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/variable-product/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>392</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:37</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:37</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:03</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:03</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shop-with-sidebar-left</wp:post_name>
+		<wp:post_name>variable-product</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
+		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1635,31 +2012,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist/product/ship-your-idea-2/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Shop — No Sidebar</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=393</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:38 +0000</pubDate>
+		<title>External / Affiliate Product</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=393</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:04 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shop-no-sidebar/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/external-affiliate-product/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>393</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:38</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:38</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:04</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:04</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shop-no-sidebar</wp:post_name>
+		<wp:post_name>external-affiliate-product</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
+		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1694,31 +2071,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?setting=sidebar-no&list-perrow=4]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist/product/happy-ninja-2/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Shop — 2 Products</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=394</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:38 +0000</pubDate>
+		<title>Grouped Product</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=394</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:08 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shop-2-products/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/grouped-product/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>394</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:38</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:38</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:08</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:08</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shop-2-products</wp:post_name>
+		<wp:post_name>grouped-product</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
+		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1753,31 +2130,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?list-perrow=2]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist/product/patient-ninja/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Shop — 3 Products</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=395</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:39 +0000</pubDate>
+		<title>Shopping Cart</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=395</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:09 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shop-3-products/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shopping-cart/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>395</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:39</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:39</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:09</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:09</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shop-3-products</wp:post_name>
+		<wp:post_name>shopping-cart</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
+		<wp:menu_order>1</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
+		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1812,31 +2189,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?list-perrow=3]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Simple Product</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=396</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:40 +0000</pubDate>
+		<title>Checkout</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=396</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:10 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/simple-product/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/checkout/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>396</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:40</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:40</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:10</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:10</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>simple-product</wp:post_name>
+		<wp:post_name>checkout</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
+		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1871,31 +2248,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/product/woo-logo-2/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Variable Product</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=402</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:44 +0000</pubDate>
+		<title>Login / Register</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=400</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:19 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/variable-product/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/login-register/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>402</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:44</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:44</wp:post_date_gmt>
+		<wp:post_id>400</wp:post_id>
+		<wp:post_date>2016-07-22 09:39:19</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:19</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>variable-product</wp:post_name>
+		<wp:post_name>login-register</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>3</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
+		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1910,7 +2287,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[402]]></wp:meta_value>
+			<wp:meta_value><![CDATA[400]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -1930,31 +2307,149 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/product/ship-your-idea-2/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>External / Affiliate Product</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=403</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:45 +0000</pubDate>
+		<title>My Account</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=401</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:20 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/external-affiliate-product/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/my-account/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>401</wp:post_id>
+		<wp:post_date>2016-07-22 09:39:20</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:20</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>my-account</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[401]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=402</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:20 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>402</wp:post_id>
+		<wp:post_date>2016-07-22 09:39:20</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:20</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>402</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[693]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[383]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[mega_menu]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Shop — with Sidebar Right</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=403</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:21 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/shop-with-sidebar-right/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>403</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:45</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:45</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:21</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:21</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>external-affiliate-product</wp:post_name>
+		<wp:post_name>shop-with-sidebar-right</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
+		<wp:menu_order>2</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
+		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -1989,27 +2484,27 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/product/happy-ninja-2/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?setting=sidebar-right]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Grouped Product</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=404</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:45 +0000</pubDate>
+		<title>Out of Stock</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=404</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:22 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/grouped-product/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/out-of-stock/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>404</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:45</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:45</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:22</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:22</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>grouped-product</wp:post_name>
+		<wp:post_name>out-of-stock</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2048,27 +2543,27 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/product/patient-ninja/]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist/product/woo-ninja-2/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Shopping Cart</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=405</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:46 +0000</pubDate>
+		<title>Order Tracking</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=405</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:23 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shopping-cart/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/order-tracking/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>405</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:46</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:46</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:23</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:23</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shopping-cart</wp:post_name>
+		<wp:post_name>order-tracking</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
+		<wp:menu_order>5</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2107,31 +2602,31 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear/order-tracking/]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Checkout</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=406</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:47 +0000</pubDate>
+		<title>Home — Minimalist V1</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=406</link>
+		<pubDate>Fri, 22 Jul 2016 09:39:23 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/checkout/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/home-minimalist-v1/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>406</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:47</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:47</wp:post_date_gmt>
+		<wp:post_date>2016-07-22 09:39:23</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:39:23</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>checkout</wp:post_name>
+		<wp:post_name>home-minimalist-v1</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
+		<wp:menu_order>4</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
 		<wp:postmeta>
 			<wp:meta_key>_vc_post_settings</wp:meta_key>
 			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
@@ -2142,7 +2637,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[700]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -2166,381 +2661,27 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Login / Register</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=407</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:48 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/login-register/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>407</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:48</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:48</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>login-register</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[407]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>My Account</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=408</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:49 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>408</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:49</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:49</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>my-account</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[408]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[#]]></wp:meta_value>
+			<wp:meta_value><![CDATA[http://eliteup.net/thebear_minimalist]]></wp:meta_value>
 		</wp:postmeta>
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=409</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:51 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=693</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:06 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/693/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>409</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:51</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:51</wp:post_date_gmt>
+		<wp:post_id>693</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:06</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:06</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>409</wp:post_name>
+		<wp:post_name>693</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[462]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[383]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[mega_menu]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Shop — with Sidebar Right</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=410</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:53 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/shop-with-sidebar-right/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>410</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:53</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:53</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>shop-with-sidebar-right</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="shop"><![CDATA[Shop]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[410]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/shop/?setting=sidebar-right]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Out of Stock</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=411</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:54 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/out-of-stock/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>411</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:54</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:54</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>out-of-stock</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="products"><![CDATA[Products]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[411]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/product/woo-ninja-2/]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title>Order Tracking</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=412</link>
-		<pubDate>Fri, 22 Jul 2016 08:28:55 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/order-tracking/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>412</wp:post_id>
-		<wp:post_date>2016-07-22 08:28:55</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:28:55</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>order-tracking</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="others"><![CDATA[Others]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[412]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[http://eliteup.net/thebear/order-tracking/]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=462</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:09 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/462/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>462</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:09</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:09</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>462</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
+		<wp:menu_order>6</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2584,22 +2725,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=463</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:09 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=694</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:07 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/463/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/694/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>463</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:09</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:09</wp:post_date_gmt>
+		<wp:post_id>694</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:07</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:07</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>463</wp:post_name>
+		<wp:post_name>694</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2614,7 +2755,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[471]]></wp:meta_value>
+			<wp:meta_value><![CDATA[702]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -2643,19 +2784,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=464</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:11 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=695</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:09 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/464/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/695/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>464</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:11</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:11</wp:post_date_gmt>
+		<wp:post_id>695</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:09</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:09</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>464</wp:post_name>
+		<wp:post_name>695</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>1</wp:menu_order>
@@ -2677,7 +2818,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[401]]></wp:meta_value>
+			<wp:meta_value><![CDATA[8]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -2702,19 +2843,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=465</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:12 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=696</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:10 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/465/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/696/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>465</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:12</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:12</wp:post_date_gmt>
+		<wp:post_id>696</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:10</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:10</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>465</wp:post_name>
+		<wp:post_name>696</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>2</wp:menu_order>
@@ -2732,11 +2873,11 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[464]]></wp:meta_value>
+			<wp:meta_value><![CDATA[695]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[400]]></wp:meta_value>
+			<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -2761,19 +2902,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=466</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:14 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=697</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:11 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/466/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/697/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>466</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:14</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:14</wp:post_date_gmt>
+		<wp:post_id>697</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:11</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:11</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>466</wp:post_name>
+		<wp:post_name>697</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>3</wp:menu_order>
@@ -2791,11 +2932,11 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[464]]></wp:meta_value>
+			<wp:meta_value><![CDATA[695]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[399]]></wp:meta_value>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
@@ -2820,19 +2961,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=467</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:18 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=698</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:13 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/467/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/698/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>467</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:18</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:18</wp:post_date_gmt>
+		<wp:post_id>698</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:13</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:13</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>467</wp:post_name>
+		<wp:post_name>698</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>4</wp:menu_order>
@@ -2879,19 +3020,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=468</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:18 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=699</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:15 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/468/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/699/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>468</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:18</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:18</wp:post_date_gmt>
+		<wp:post_id>699</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:15</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:15</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>468</wp:post_name>
+		<wp:post_name>699</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>5</wp:menu_order>
@@ -2938,16 +3079,16 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=469</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:19 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=700</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:16 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/home/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>469</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:19</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:19</wp:post_date_gmt>
+		<wp:post_id>700</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:16</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:16</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
 		<wp:post_name>home</wp:post_name>
@@ -2997,22 +3138,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=470</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:20 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=701</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:17 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/470/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/701/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>470</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:20</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:20</wp:post_date_gmt>
+		<wp:post_id>701</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:17</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:17</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>470</wp:post_name>
+		<wp:post_name>701</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
+		<wp:menu_order>9</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3056,22 +3197,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=471</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:21 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=702</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:17 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/471/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/702/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>471</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:21</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:21</wp:post_date_gmt>
+		<wp:post_id>702</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:17</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:17</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>471</wp:post_name>
+		<wp:post_name>702</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3115,22 +3256,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=472</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:21 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=703</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:18 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/472/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/703/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>472</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:21</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:21</wp:post_date_gmt>
+		<wp:post_id>703</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:18</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:18</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>472</wp:post_name>
+		<wp:post_name>703</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>256</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3145,7 +3286,7 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[471]]></wp:meta_value>
+			<wp:meta_value><![CDATA[702]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
@@ -3174,78 +3315,19 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=473</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:22 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=704</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:20 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/473/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/704/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>473</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:22</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:22</wp:post_date_gmt>
+		<wp:post_id>704</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:20</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:20</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>473</wp:post_name>
-		<wp:status>publish</wp:status>
-		<wp:post_parent>256</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type>nav_menu_item</wp:post_type>
-		<wp:post_password></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
-		<wp:postmeta>
-			<wp:meta_key>_vc_post_settings</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_type</wp:meta_key>
-			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[471]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object_id</wp:meta_key>
-			<wp:meta_value><![CDATA[274]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_object</wp:meta_key>
-			<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_target</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_classes</wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_xfn</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key>_menu_item_url</wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-	</item>
-	<item>
-		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=474</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:22 +0000</pubDate>
-		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/474/</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>474</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:22</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:22</wp:post_date_gmt>
-		<wp:comment_status>closed</wp:comment_status>
-		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>474</wp:post_name>
+		<wp:post_name>704</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>256</wp:post_parent>
 		<wp:menu_order>13</wp:menu_order>
@@ -3263,6 +3345,65 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[702]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[274]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title></title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=705</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:23 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/705/</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>705</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:23</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:23</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>705</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>256</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
@@ -3292,22 +3433,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=475</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:23 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=706</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:24 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/475/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/706/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>475</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:23</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:23</wp:post_date_gmt>
+		<wp:post_id>706</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:24</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:24</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>475</wp:post_name>
+		<wp:post_name>706</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>256</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
+		<wp:menu_order>8</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3351,22 +3492,22 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 	</item>
 	<item>
 		<title></title>
-		<link>http://eliteup.net/thebear/?post_type=nav_menu_item&#038;p=476</link>
-		<pubDate>Fri, 22 Jul 2016 08:31:24 +0000</pubDate>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=707</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:25 +0000</pubDate>
 		<dc:creator>admin</dc:creator>
-		<guid isPermaLink="false">http://eliteup.net/thebear/2016/07/22/476/</guid>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/707/</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>476</wp:post_id>
-		<wp:post_date>2016-07-22 08:31:24</wp:post_date>
-		<wp:post_date_gmt>2016-07-22 08:31:24</wp:post_date_gmt>
+		<wp:post_id>707</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:25</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:25</wp:post_date_gmt>
 		<wp:comment_status>closed</wp:comment_status>
 		<wp:ping_status>closed</wp:ping_status>
-		<wp:post_name>476</wp:post_name>
+		<wp:post_name>707</wp:post_name>
 		<wp:status>publish</wp:status>
 		<wp:post_parent>256</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type>nav_menu_item</wp:post_type>
 		<wp:post_password></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3381,11 +3522,70 @@ As a new WordPress user, you should go to <a href="http://eliteup.net/thebear/wp
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
-			<wp:meta_value><![CDATA[471]]></wp:meta_value>
+			<wp:meta_value><![CDATA[702]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object_id</wp:meta_key>
 			<wp:meta_value><![CDATA[336]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object</wp:meta_key>
+			<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_target</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_classes</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_xfn</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_url</wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Home — Minimalist V2</title>
+		<link>http://eliteup.net/thebear_bold/?post_type=nav_menu_item&#038;p=708</link>
+		<pubDate>Fri, 22 Jul 2016 09:42:25 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://eliteup.net/thebear_bold/home-minimalist-v2/</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>708</wp:post_id>
+		<wp:post_date>2016-07-22 09:42:25</wp:post_date>
+		<wp:post_date_gmt>2016-07-22 09:42:25</wp:post_date_gmt>
+		<wp:comment_status>closed</wp:comment_status>
+		<wp:ping_status>closed</wp:ping_status>
+		<wp:post_name>home-minimalist-v2</wp:post_name>
+		<wp:status>publish</wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type>nav_menu_item</wp:post_type>
+		<wp:post_password></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<category domain="nav_menu" nicename="main-menu"><![CDATA[Main Menu]]></category>
+		<wp:postmeta>
+			<wp:meta_key>_vc_post_settings</wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_type</wp:meta_key>
+			<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_menu_item_parent</wp:meta_key>
+			<wp:meta_value><![CDATA[700]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key>_menu_item_object_id</wp:meta_key>
+			<wp:meta_value><![CDATA[564]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key>_menu_item_object</wp:meta_key>
